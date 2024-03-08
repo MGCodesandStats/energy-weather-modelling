@@ -23,9 +23,9 @@ Techniques used include:
 
 ### [ARIMA vs LSTM: Forecasting Electricity Consumption](https://www.michael-grogan.com/articles/arima-lstm-electricity)
 
-[![auto_arima_571](auto_arima_571.png)](https://www.michael-grogan.com/articles/arima-lstm-electricity)
-
 In this example, the ARIMA and LSTM models are used to predict electricity consumption patterns for the Dublin City Council Civic Offices, Ireland. Specifically, the data is provided in terms of kilowatt consumption every 15 minutes. Data is manipulated into a daily time series format using pandas and numpy, and forecasting performance across ARIMA and LSTM models are compared.
+
+[![auto_arima_571](auto_arima_571.png)](https://www.michael-grogan.com/articles/arima-lstm-electricity)
 
 ### [SARIMA vs Prophet: Forecasting Seasonal Weather Data](https://www.michael-grogan.com/articles/sarima-prophet-weather)
 
