@@ -25,4 +25,4 @@ Techniques used include:
 
 ARIMA and Prophet are major time series tools used to forecast future values. When conducting time series analysis, it is frequently the case that a time series will have a seasonal fluctuation — or a shift in the time series that periodically occurs during certain times. Weather data is a classic example of this — with temperatures fluctuating significantly during the four seasons. 
 
-[![acf](acf.png)](https://www.michael-grogan.com/articles/sarima-prophet-weather)
+[![acf_571](acf_571.png)](https://www.michael-grogan.com/articles/sarima-prophet-weather)
