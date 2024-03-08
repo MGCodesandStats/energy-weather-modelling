@@ -21,6 +21,10 @@ Techniques used include:
 
 ## Articles
 
+### [ARIMA vs LSTM: Forecasting Electricity Consumption](https://www.michael-grogan.com/articles/arima-lstm-electricity)
+
+In this example, the ARIMA and LSTM models are used to predict electricity consumption patterns for the Dublin City Council Civic Offices, Ireland. 
+
 ### [SARIMA vs Prophet: Forecasting Seasonal Weather Data](https://www.michael-grogan.com/articles/sarima-prophet-weather)
 
 ARIMA and Prophet are major time series tools used to forecast future values. When conducting time series analysis, it is frequently the case that a time series will have a seasonal fluctuation — or a shift in the time series that periodically occurs during certain times. Weather data is a classic example of this — with temperatures fluctuating significantly during the four seasons. 
