@@ -18,3 +18,11 @@ Techniques used include:
 - LSTM for rainfall forecasting
 - Monte Carlo simulations for extreme weather modeling
 - PyFlux for probability-based analysis of temperature forecasts
+
+## Articles
+
+### [SARIMA vs Prophet: Forecasting Seasonal Weather Data](https://www.michael-grogan.com/articles/sarima-prophet-weather)
+
+ARIMA and Prophet are major time series tools used to forecast future values. When conducting time series analysis, it is frequently the case that a time series will have a seasonal fluctuation — or a shift in the time series that periodically occurs during certain times. Weather data is a classic example of this — with temperatures fluctuating significantly during the four seasons. 
+
+[![acf](acf.png)](https://www.michael-grogan.com/articles/sarima-prophet-weather)
