@@ -32,3 +32,9 @@ In this example, the ARIMA and LSTM models are used to predict electricity consu
 ARIMA and Prophet are major time series tools used to forecast future values. When conducting time series analysis, it is frequently the case that a time series will have a seasonal fluctuation — or a shift in the time series that periodically occurs during certain times. Weather data is a classic example of this — with temperatures fluctuating significantly during the four seasons. 
 
 [![acf_571](acf_571.png)](https://www.michael-grogan.com/articles/sarima-prophet-weather)
+
+### [XGBoost For Time Series Forecasting: Don’t Use It Blindly](https://www.michael-grogan.com/articles/xgboost-time-series)
+
+When it comes to using a machine learning model such as XGBoost to forecast a time series — all common sense seems to go out the window. Rather, we simply load the data into the model in a black-box like fashion and expect it to magically give us accurate output. A little known secret of time series analysis — not all time series can be forecast, no matter how good the model. Attempting to do so can often lead to spurious or misleading forecasts.
+
+[![xgbregressor](xgbregressor.png)](https://www.michael-grogan.com/articles/xgboost-time-series)
